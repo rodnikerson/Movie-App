@@ -12,3 +12,4 @@ Dentro dessas categorias há os filmes com algumas descrições, onde é possív
 
 O deploy foi realizado no netlify, sendo assim, basta acessar o link abaixo para conferi-lo:
 
+https://quiet-hotteok-73af93.netlify.app/
